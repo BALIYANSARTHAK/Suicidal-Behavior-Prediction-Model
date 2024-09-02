@@ -1,1 +1,1 @@
-# Suicidal-Behavior-Prediction-Model
+# Suicidal-behavior-prediction-model
